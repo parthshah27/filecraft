@@ -2,6 +2,8 @@
 
 > Create project file structures from a JSON blueprint — via CLI or Web UI.
 
+Check out the live hosted version: [https://filecraft.onrender.com](https://filecraft.onrender.com)
+
 ---
 
 ## ✨ Features
@@ -82,7 +84,7 @@ npm start
 
 ### 2️⃣ Open
 
-Visit [http://localhost:3000](http://localhost:3000).
+Visit [http://localhost:3000](http://localhost:3000) or check the live version: [https://filecraft.onrender.com](https://filecraft.onrender.com).
 
 You’ll see:
 
@@ -118,7 +120,7 @@ filecraft/
 
 Easily deploy the Web UI:
 
-* [Render](https://render.com/)
+* [Render](https://render.com)
 * [Railway](https://railway.app/)
 * [Heroku](https://heroku.com)
 * [Vercel](https://vercel.com/) *(convert `server.js` to an API route)*
