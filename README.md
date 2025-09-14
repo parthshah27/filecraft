@@ -134,4 +134,4 @@ Ideas: drag-and-drop JSON, upload `.json` file, `--dry-run` / `--force` flags fo
 
 ## 📄 License
 
-MIT © 2025 Parth Shah(https://github.com/parthshah07)
+MIT © 2025 Parth Shah(https://github.com/parthshah27)
