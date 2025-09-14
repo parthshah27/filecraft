@@ -1,0 +1,28 @@
+{
+  "name": "filecraft",
+  "version": "1.0.0",
+  "description": "Create project file structures from a JSON blueprint — via CLI or Web UI.",
+  "type": "module",
+  "main": "src/server.js",
+  "bin": {
+    "filecraft": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "cli",
+    "json",
+    "files",
+    "zip",
+    "web-ui",
+    "generator"
+  ],
+  "author": "Parth Shah",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^6.0.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
