@@ -129,8 +129,21 @@ Easily deploy the Web UI:
 
 ## 🤝 Contributing
 
-PRs, bug reports, and feature suggestions are welcome!
-Ideas: drag-and-drop JSON, upload `.json` file, `--dry-run` / `--force` flags for CLI.
+PRs, bug reports, and feature suggestions are always welcome!  
+
+⚠️ **Important:**  
+To keep the repository safe and maintain a clean history:  
+
+* **Do not push directly to `master`** — all changes must go through a Pull Request (PR) or an Issue.  
+* **Create a branch** for your feature or bug fix.  
+* **Submit a PR** with a clear description of your changes.  
+* Discuss significant changes via **Issues** before implementation.  
+
+💡 **Ideas for contributions:**  
+Drag-and-drop JSON support, upload `.json` file, `--dry-run` / `--force` flags for CLI, and other feature enhancements.  
+
+⭐ **If this project helped you, consider giving it a star!**
+
 
 ---
 
